@@ -1,2 +1,2 @@
 # OFDM_ISAC_simulator
- A simple demo for OFDM ISAC systems
+This is a simple simulation demo for OFDM ISAC systems.
