@@ -1,4 +1,4 @@
-% OFDM simulator for integrated sensing and communication systems
+% A simple OFDM simulator for integrated sensing and communication systems
 % Source code: https://github.com/YongzhiWu/OFDM_ISAC_simulator
 clc;
 clear;
